@@ -1,0 +1,20 @@
+
+{
+	"@context": {
+		"@vocab": "http://schema.org/", 
+		"@base": "http://data.org/", 
+		"nom": "name", 
+		"coordonnees[0]": "lat", 
+		"coordonnees[1]": "long", 
+		"nombrevelosdisponibles": "available_bikes", 
+		"nombreemplacementsdisponibles":"available_bike_stands",
+		"total_bike_stands": "nombreemplacementsactuels"
+		}, 
+
+
+
+
+		"records": [
+		[{"type": "FeatureCollection", "name": "Stations de velos Rennes","fields": {"nombrevelosdisponibles": 11, "nombreemplacementsactuels": 15, "nom": "Mus\u00e9e Beaux-Arts", "nombreemplacementsdisponibles": 4, "coordonnees": [48.109601, -1.67408], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 7, "nombreemplacementsactuels": 24, "nom": "Champs Libres", "nombreemplacementsdisponibles": 17, "coordonnees": [48.105537, -1.674328], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 8, "nombreemplacementsactuels": 24, "nom": "Brest - Verdun", "nombreemplacementsdisponibles": 16, "coordonnees": [48.113009, -1.693264], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 13, "nombreemplacementsactuels": 20, "nom": "Marbeuf", "nombreemplacementsdisponibles": 7, "coordonnees": [48.111749, -1.702077], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 11, "nombreemplacementsactuels": 24, "nom": "Plaine de Baud", "nombreemplacementsdisponibles": 13, "coordonnees": [48.112461, -1.643674], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 8, "nombreemplacementsactuels": 17, "nom": "Gros-Ch\u00eane", "nombreemplacementsdisponibles": 9, "coordonnees": [48.126795, -1.665101], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 19, "nombreemplacementsactuels": 29, "nom": "Painlev\u00e9", "nombreemplacementsdisponibles": 10, "coordonnees": [48.123506, -1.659762], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 10, "nombreemplacementsactuels": 30, "nom": "Joliot-Curie - Chateaubriand", "nombreemplacementsdisponibles": 20, "coordonnees": [48.124389, -1.651203], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 0, "nombreemplacementsactuels": 1, "nom": "La Poterie", "nombreemplacementsdisponibles": 1, "coordonnees": [48.087282, -1.644121], "@type": "station"}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 11, "nombreemplacementsactuels": 20, "nom": "Pont de Strasbourg", "nombreemplacementsdisponibles": 9, "coordonnees": [48.109859, -1.656028], "@type": "station"}, "type": "Feature"}]
+]
+}

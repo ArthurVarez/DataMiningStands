@@ -18,18 +18,17 @@ def Hello():
 
 @app.route("/lyon",methods = ["GET","POST"])
 def lyon():
-    return "<h1>Lyon<h1>"
+    return render_template('map.html',name = 'Lyon',datas = grab_query(send_query(query_lyon)))
 
 @app.route("/rennes",methods = ["GET","POST"])
 def rennes():
-    return "<h1>Rennes<h1>"
-
+    return render_template('map.html',name = 'Rennes',datas = grab_query(send_query(query_rennes)))
 @app.route("/mtp",methods = ["GET","POST"])
 def mtp():
-    return "<h1>Montpellier<h1>"
+    return render_template('map.html',name = 'Montpellier',datas = grab_query(send_query(query_mtp)))
 
 def send_query(query):
-    sparql = SPARQLWrapper('http://localhost:3030/Bikes_stations')
+    sparql = SPARQLWrapper('http://localhost:3030/Bike_stands')
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()

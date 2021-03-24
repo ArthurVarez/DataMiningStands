@@ -1,44 +1,57 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Add Map</title>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width", initial-scale=1.0>
+	<meta http-equiv="X-UA-Compatible" content= "ie=edge">
+	<title>Bike stand map for {{name}}</title>
+	<style>
+		#map{
+			height: 400px;
+			width: 100%;
+		}
+	</style>
+</head>
 
-    <style type="text/css">
-      /* Set the size of the div element that contains the map */
-      #map {
-        height: 400px;
-        /* The height is 400 pixels */
-        width: 100%;
-        /* The width is the width of the web page */
-      }
-    </style>
-    <script>
-      // Initialize and add the map
-      function initMap() {
-        // The location of Uluru
-        const uluru = { lat: -25.344, lng: 131.036 };
-        // The map, centered at Uluru
-        const map = new google.maps.Map(document.getElementById("map"), {
-          zoom: 8,
-          center: uluru,
-        });
-        // The marker, positioned at Uluru
-        const marker = new google.maps.Marker({
-          position: uluru,
-          map: map,
-        });
-      }
-    </script>
-  </head>
-  <body>
-    <h3>Map for {{name}}</h3>
-    <!--The div element for the map -->
-    <div id="map"></div>
 
-    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtrsu4daYlkPAkbrFFcoYb9tPO9hcjOvc&callback=initMap&libraries=&v=weekly"
-      async
-    ></script>
-  </body>
+</head>
+<body>
+	<h1>Bike station Map {{name}}</h1>
+	<div id="map">
+
+	</div>
+	<div id='tab'>
+		<h1>{{datas}}</h1>
+	</div>
+	<script>
+		
+		function initMap()
+		{
+			var options = {
+				zoom : 12,
+				center : {lat : 45.759060, lng : 4.847331}
+			}
+			var map = new google.maps.Map(document.getElementById('map'),options)
+
+			for(var i = 0;i<data.length;i++)
+			{
+				var coords = {lat:data[i][5],lng:data[i][6]}
+				addMarker(coords)
+			}
+			function addMarker(coords){
+				var marker = new google.maps.Marker(
+				{
+					position: coords,
+					map:map
+				})
+
+			}
+
+		}
+	</script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtrsu4daYlkPAkbrFFcoYb9tPO9hcjOvc&callback=initMap&libraries=&v=weekly"
+          type="text/javascript"></script>
+</head> 
+
+</body>
 </html>

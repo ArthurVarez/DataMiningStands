@@ -18,7 +18,7 @@ def Hello():
 
 @app.route("/lyon",methods = ["GET","POST"])
 def lyon():
-    return render_template('map.html',name = 'Lyon',datas = grab_query(send_query(query_lyon)))
+    return render_template('map.html',name = 'Lyon',datas = grab_query(send_query(query_lyon)),center = (45.759060, 4.847331))
 
 @app.route("/rennes",methods = ["GET","POST"])
 def rennes():
@@ -41,13 +41,16 @@ def grab_query(query):
         temp.append(element['ville']['value'])
         temp.append(element['name']['value'])
         temp.append(element['available_bikes']['value'])
-        temp.append( element['available_bikes_stands']['value'])
+        temp.append(element['available_bikes_stands']['value'])
         temp.append(element['bike_stands']['value'])
+        
         res.append(temp)
+        
         
     return res
        
 
 if __name__ == '__main__':
-    #print(grab_query(send_query(query_lyon)))
+    #print((grab_query(send_query(query_mtp))))
     app.run(port=3000)
+    

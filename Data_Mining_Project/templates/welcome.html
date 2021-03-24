@@ -1,0 +1,37 @@
+{% extends 'bootstrap/base.html' %}
+
+
+{% block title %}
+    API WebDataming
+{% endblock %}
+
+
+
+{% block content  %}
+    <h1>Welcome on the bike stands API for the cities of Rennes,Lyon and Montpellier </h1>
+
+    <p>In this website you will be able to know the informations about bike stations of this cities
+    </p>
+
+    {% block page_content %}
+        <p> Click here to see Lyon bike stands</p>
+
+        <button class="btn btn-outline-secondary" type="button" id="button-addon1">
+            <a href="/lyon">Lyon Bike stands</a>
+        </button>
+
+        <p> Click here to see Renens bike stands</p>
+
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2">
+                <a href="/rennes">Rennes Bike stands</a>
+            </button>
+        
+        <p> Click here to see Lyon bike stands</p>
+
+            <button class="btn btn-outline-secondary" type="button" id="button-addon3">
+                <a href="/mtp">Montpellier Bike stands</a>
+            </button>
+    
+    {% endblock %}
+    
+{% endblock %}

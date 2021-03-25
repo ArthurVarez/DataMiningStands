@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width", initial-scale=1.0>
+	<meta http-equiv="X-UA-Compatible" content= "ie=edge">
+	<title>Bike stand map for {{name}}</title>
+	<style>
+		#map{
+			height: 400px;
+			width: 100%;
+		}
+	</style>
+</head>
+
+
+</head>
+<body>
+	<h1>Bike station Map {{name}}</h1>
+	<div id="map">
+
+	</div>
+	
+	<script>
+		var pos = [['Montpellier', 'Rue Jules Ferry - Gare Saint-Roch', '4', '8', '12', 43.60536, 3.88134], ['Montpellier', 'Comédie', '6', '18', '24', 43.60814, 3.87877], ['Montpellier', 'Esplanade', '27', '5', '32', 43.60947, 3.88129], ['Montpellier', 'Hôtel de Ville', '7', '9', '16', 43.59908, 3.89486], ['Montpellier', 'Corum', '9', '3', '12', 43.61398, 3.8816], ['Montpellier', 'Place Albert 1er - St Charles', '17', '14', '31', 43.61676, 3.87337], ['Montpellier', 'Foch', '4', '4', '8', 43.61098, 3.87334], ['Montpellier', 'Halles Castellane', '11', '1', '12', 43.60993, 3.8772], ['Montpellier', 'Observatoire', '6', '2', '8', 43.60608, 3.87693], ['Montpellier', 'Rondelet', '5', '11', '16', 43.60303, 3.87579], ['Montpellier', 'Plan Cabanes', '5', '7', '12', 43.60849, 3.86838], ['Montpellier', 'Boutonnet', '9', '3', '12', 43.62262, 3.86837], ['Montpellier', 'Emile Combes', '3', '5', '8', 43.61674, 3.8799], ['Montpellier', 'Beaux-Arts', '4', '4', '8', 43.61669, 3.88498], ['Montpellier', 'Les Aubes', '3', '5', '8', 43.61869, 3.89384], ['Montpellier', 'Antigone centre', '4', '12', '16', 43.60794, 3.89063], ['Montpellier', 'Médiathèque Emile Zola', '10', '6', '16', 43.60821, 3.89314], ['Montpellier', "Nombre d'Or", '11', '5', '16', 43.60785, 3.88664], ['Montpellier', 'Louis Blanc', '13', '3', '16', 43.61464, 3.87764], ['Montpellier', 'Gambetta', '5', '3', '8', 43.6071, 3.87069], ['Montpellier', 'Port Marianne', '11', '5', '16', 43.60032, 3.89851], ['Montpellier', 'Clemenceau', '8', '4', '12', 43.60353, 3.87239], ['Montpellier', 'Les Arceaux', '15', '1', '16', 43.61199, 3.86715], ['Montpellier', 'Cité Mion', '6', '2', '8', 43.60114, 3.88437], ['Montpellier', 'Nouveau Saint-Roch', '5', '3', '8', 43.59981, 3.87575], ['Montpellier', 'Renouvier', '7', '1', '8', 43.60355, 3.86788], ['Montpellier', 'Odysseum', '1', '7', '8', 43.60372, 3.91897], ['Montpellier', 'Saint-Denis', '4', '4', '8', 43.60502, 3.87506], ['Montpellier', 'Richter', '4', '12', '16', 43.60342, 3.89926], ['Montpellier', 'Charles Flahault', '4', '4', '8', 43.61876, 3.86597], ['Montpellier', 'Voltaire', '6', '2', '8', 43.60376, 3.88865], ['Montpellier', "Prés d'Arènes", '7', '1', '8', 43.59048, 3.88461], ['Montpellier', 'Garcia Lorca', '5', '3', '8', 43.59075, 3.89061], ['Montpellier', 'Vert Bois', '16', '0', '16', 43.63458, 3.86823], ['Montpellier', 'Malbosc', '4', '4', '8', 43.63367, 3.83286], ['Montpellier', 'Occitanie', '26', '6', '32', 43.63424, 3.84912], ['Montpellier', 'FacdesSciences', '11', '13', '24', 43.63101, 3.86069], ['Montpellier', 'Fac de Lettres', '15', '1', '16', 43.63066, 3.87023], ['Montpellier', 'Aiguelongue', '4', '4', '8', 43.62616, 3.88249], ['Montpellier', 'Jeu de Mail des Abbés', '8', '0', '8', 43.6197, 3.88383], ['Montpellier', 'Euromédecine', '6', '2', '8', 43.63911, 3.82819], ['Montpellier', 'Marie Caizergues', '6', '2', '8', 43.61987, 3.87381], ['Montpellier', 'Sabines', '5', '3', '8', 43.58421, 3.86003], ['Montpellier', 'Celleneuve', '3', '5', '8', 43.61467, 3.83262], ['Montpellier', 'Jardin de la Lironde', '4', '4', '8', 43.60585, 3.91157], ['Montpellier', 'Père Soulas', '6', '2', '8', 43.62198, 3.8556], ['Montpellier', 'Place Viala', '7', '1', '8', 43.61681, 3.85507], ['Montpellier', 'Hôtel du Département', '6', '2', '8', 43.62168, 3.83477], ['Montpellier', 'Tonnelles', '6', '2', '8', 43.61515, 3.83946], ['Montpellier', 'Parvis Jules Ferry - Gare Saint-Roch', '4', '4', '8', 43.60388, 3.87936], ['Montpellier', 'Pont de Lattes - Gare Saint-Roch', '9', '3', '12', 43.60603, 3.88239], ['Montpellier', 'Deux Ponts - Gare Saint-Roch', '4', '4', '8', 43.60431, 3.88091], ['Montpellier', 'Providence - Ovalie', '5', '3', '8', 43.58823, 3.85342], ['Montpellier', "Pérols Etang de l'Or", '40', '28', '68', 43.55835, 3.96341], ['Montpellier', 'Albert 1er - Cathédrale', '8', '4', '12', 43.614, 3.87321], ['Montpellier', 'Saint-Guilhem - Courreau', '3', '5', '8', 43.60899, 3.87275], ['Montpellier', 'Sud De France', '4', '4', '8', 43.59562, 3.9235]]
+
+		function initMap()
+		{
+			var options = {
+				zoom : 12,
+				center : {lat : 43.6108, lng : 3.8767}
+			}
+			var map = new google.maps.Map(document.getElementById('map'),options)
+
+			for(var i = 0;i<pos.length;i++)
+			{
+				var coords = {lat:pos[i][5],lng:pos[i][6]}
+				addMarker(coords)
+			}
+			function addMarker(coords){
+				var marker = new google.maps.Marker(
+				{
+					position: coords,
+					map:map
+				})
+
+			
+                var infoWindow = new google.maps.InfoWindow({
+                    content: "<h1> name : "+ pos[i][1]+" , availables_bikes : "+ pos[i][2]+", availables_stands : "+ pos[i][3]+ "</h1>"
+                    })
+                    marker.addListener('click',function(){
+                        infoWindow.open(map,marker)
+                    });
+
+		}}
+	</script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtrsu4daYlkPAkbrFFcoYb9tPO9hcjOvc&callback=initMap&libraries=&v=weekly"
+          type="text/javascript"></script>
+</head> 
+
+</body>
+</html>

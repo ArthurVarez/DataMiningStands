@@ -4,7 +4,7 @@ PREFIX rdfs:<http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.owl-ontologies.com/unnamed.owl#>
 
 
-SELECT ?ville ?name ?available_bikes ?available_bikes_stands ?bike_stands 
+SELECT ?ville ?name ?available_bikes ?available_bikes_stands ?bike_stands ?lat ?long
 WHERE {
 	 ?station rdf:type ns:station .
 	 ?station ns:name ?name .
@@ -12,7 +12,8 @@ WHERE {
 	 ?station ns:available_bikes ?available_bikes .
 	 ?station ns:available_bikes_stands ?available_bikes_stands .
 	 ?station ns:bike_stands ?bike_stands .
-	 
+	 ?station ns:lat ?lat .
+    ?station ns:long ?long .
   FILTER(?ville="Montpellier") .
   
 	   	

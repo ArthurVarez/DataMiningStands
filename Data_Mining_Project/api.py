@@ -18,14 +18,15 @@ def Hello():
 
 @app.route("/lyon",methods = ["GET","POST"])
 def lyon():
-    return render_template('map.html',name = 'Lyon',datas = grab_query(send_query(query_lyon)),center = (45.759060, 4.847331))
+    return render_template('map_lyon.html',name = 'Lyon',datas = grab_query(send_query(query_lyon)))
 
 @app.route("/rennes",methods = ["GET","POST"])
 def rennes():
-    return render_template('map.html',name = 'Rennes',datas = grab_query(send_query(query_rennes)))
+    return render_template('map_rennes.html',name = 'Rennes',datas = grab_query(send_query(query_rennes)))
+
 @app.route("/mtp",methods = ["GET","POST"])
 def mtp():
-    return render_template('map.html',name = 'Montpellier',datas = grab_query(send_query(query_mtp)))
+    return render_template('map_mtp.html',name = 'Montpellier',datas = grab_query(send_query(query_mtp)))
 
 def send_query(query):
     sparql = SPARQLWrapper('http://localhost:3030/Bike_stands')
@@ -43,7 +44,8 @@ def grab_query(query):
         temp.append(element['available_bikes']['value'])
         temp.append(element['available_bikes_stands']['value'])
         temp.append(element['bike_stands']['value'])
-        
+        temp.append(float(element['lat']['value'][0:-2])*10)
+        temp.append(float(element['long']['value'][0:-2]))
         res.append(temp)
         
         
@@ -51,6 +53,9 @@ def grab_query(query):
        
 
 if __name__ == '__main__':
-    #print((grab_query(send_query(query_mtp))))
+    #   f = open('/Users/Arthur/Desktop/Projets/DataMiningStands/Data_Mining_Project/Data/q.txt','w')
+    #   l = grab_query(send_query(query_rennes))
+    #   f.write(str(l))
+    #   f.close()
     app.run(port=3000)
     

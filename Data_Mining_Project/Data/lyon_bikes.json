@@ -4,7 +4,7 @@
 		"@base": "http://data.org/", 
 		"name": "name", 
 		"lat": "lat", 
-		"long": "long", 
+		"lng": "long", 
 		"available_bikes": "available_bikes", 
 		"available_bike_stands": "available_bikes_stands",
 		"total_bike_stands": "bike_stands",

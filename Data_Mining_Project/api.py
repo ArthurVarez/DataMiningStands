@@ -29,7 +29,7 @@ def mtp():
     return render_template('map_mtp.html',name = 'Montpellier',datas = grab_query(send_query(query_mtp)))
 
 def send_query(query):
-    sparql = SPARQLWrapper('http://localhost:3030/Bike_stands')
+    sparql = SPARQLWrapper('http://localhost:3030/Final_Sation_Bikes')
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -53,5 +53,9 @@ def grab_query(query):
        
 
 if __name__ == '__main__':
+    #   f = open('/Users/Arthur/Desktop/Projets/DataMiningStands/Data_Mining_Project/Data/q.txt','w')
+    #   l = grab_query(send_query(query_rennes))
+    #   f.write(str(l))
+    #   f.close()
     app.run(port=3000)
     

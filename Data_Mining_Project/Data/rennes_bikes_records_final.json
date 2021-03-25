@@ -1,0 +1,19 @@
+{
+	"@context": {
+		"@vocab": "http://www.owl-ontologies.com/unnamed.owl", 
+		"@base": "http://data.org/", 
+		"nom": "name", 
+		"coordonnees[0]": "lat", 
+		"coordonnees[1]": "long", 
+		"nombrevelosdisponibles": "available_bikes", 
+		"nombreemplacementsdisponibles":"available_bike_stands",
+		"nombreemplacementsactuels": "bike_stands"
+		}, 
+
+
+
+
+		"records": [
+		[{"type": "FeatureCollection", "name": "Stations de velos Rennes","fields": {"nombrevelosdisponibles": 6, "nombreemplacementsactuels": 16, "nom": "Mus\u00e9e Beaux-Arts", "nombreemplacementsdisponibles": 10, "coordonnees": [48.109601, -1.67408], "@type": "station", "ville": "Rennes", "lat": 48.109601, "long": -1.67408}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 10, "nombreemplacementsactuels": 24, "nom": "Champs Libres", "nombreemplacementsdisponibles": 14, "coordonnees": [48.105537, -1.674328], "@type": "station", "ville": "Rennes", "lat": 48.105537, "long": -1.674328}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 13, "nombreemplacementsactuels": 24, "nom": "Brest - Verdun", "nombreemplacementsdisponibles": 11, "coordonnees": [48.113009, -1.693264], "@type": "station", "ville": "Rennes", "lat": 48.113009, "long": -1.693264}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 10, "nombreemplacementsactuels": 20, "nom": "Marbeuf", "nombreemplacementsdisponibles": 10, "coordonnees": [48.111749, -1.702077], "@type": "station", "ville": "Rennes", "lat": 48.111749, "long": -1.702077}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 5, "nombreemplacementsactuels": 24, "nom": "Plaine de Baud", "nombreemplacementsdisponibles": 19, "coordonnees": [48.112461, -1.643674], "@type": "station", "ville": "Rennes", "lat": 48.112461, "long": -1.643674}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 8, "nombreemplacementsactuels": 17, "nom": "Gros-Ch\u00eane", "nombreemplacementsdisponibles": 9, "coordonnees": [48.126795, -1.665101], "@type": "station", "ville": "Rennes", "lat": 48.126795, "long": -1.665101}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 10, "nombreemplacementsactuels": 29, "nom": "Painlev\u00e9", "nombreemplacementsdisponibles": 19, "coordonnees": [48.123506, -1.659762], "@type": "station", "ville": "Rennes", "lat": 48.123506, "long": -1.659762}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 13, "nombreemplacementsactuels": 29, "nom": "Joliot-Curie - Chateaubriand", "nombreemplacementsdisponibles": 16, "coordonnees": [48.124389, -1.651203], "@type": "station", "ville": "Rennes", "lat": 48.124389, "long": -1.651203}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 0, "nombreemplacementsactuels": 1, "nom": "La Poterie", "nombreemplacementsdisponibles": 1, "coordonnees": [48.087282, -1.644121], "@type": "station", "ville": "Rennes", "lat": 48.087282, "long": -1.644121}, "type": "Feature"}, {"fields": {"nombrevelosdisponibles": 12, "nombreemplacementsactuels": 20, "nom": "Pont de Strasbourg", "nombreemplacementsdisponibles": 8, "coordonnees": [48.109859, -1.656028], "@type": "station", "ville": "Rennes", "lat": 48.109859, "long": -1.656028}, "type": "Feature"}]
+]
+}

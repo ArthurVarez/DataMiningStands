@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.owl-ontologies.com/unnamed.">
+
+  <rdf:Description rdf:nodeID="genid1">
+    <ns0:owlfeatures>
+      <rdf:Description>
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.605366</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.881346</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rue Jules Ferry - Gare Saint-Roch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.608148</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.878778</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comédie</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.609478</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.881293</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esplanade</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.599088</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.894866</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hôtel de Ville</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.613989</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.881600</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corum</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.616768</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.873375</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Albert 1er - St Charles</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.610989</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.873345</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.609935</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.877208</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halles Castellane</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.606081</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.876931</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Observatoire</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603038</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.875796</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rondelet</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.608491</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.868389</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plan Cabanes</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.622629</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.868375</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boutonnet</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.616742</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.87998</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emile Combes</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.616698</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.884981</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beaux-Arts</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.618692</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.893844</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Aubes</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.607942</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.890634</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antigone centre</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.608218</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.893140</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Médiathèque Emile Zola</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.607859</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.886644</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nombre d'Or</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.614642</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.877648</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Louis Blanc</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.607106</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.870693</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gambetta</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.600320</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.898510</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Port Marianne</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603539</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.872394</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clemenceau</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.611991</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.867157</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Arceaux</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.601143</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.884373</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cité Mion</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.599817</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.875757</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouveau Saint-Roch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603553</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.867884</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renouvier</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603727</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.918979</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Odysseum</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.605021</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.875065</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Denis</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603424</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.899263</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Richter</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.618762</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.865971</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charles Flahault</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603767</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.888659</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voltaire</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.590480</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.884611</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prés d'Arènes</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.590757</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.890616</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Garcia Lorca</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.634580</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.868230</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vert Bois</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.633679</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.832861</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malbosc</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.634242</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.849128</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.631018</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.860697</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FacdesSciences</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.630665</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.870230</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fac de Lettres</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.626163</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.882492</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aiguelongue</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.619701</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.883831</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeu de Mail des Abbés</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.639119</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.828199</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Euromédecine</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.619871</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.873812</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marie Caizergues</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.584211</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.860031</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabines</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.614670</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.832624</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celleneuve</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.605850</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.911576</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jardin de la Lironde</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.621983</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.855603</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Père Soulas</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.616812</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.855075</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Viala</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.621682</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.834770</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hôtel du Département</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.615155</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.839466</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tonnelles</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.603889</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.879362</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parvis Jules Ferry - Gare Saint-Roch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.606036</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.882393</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pont de Lattes - Gare Saint-Roch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.604319</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.880916</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deux Ponts - Gare Saint-Roch</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.588239</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.853421</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Providence - Ovalie</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.558351</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.963412</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pérols Etang de l'Or</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.614005</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.873218</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albert 1er - Cathédrale</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.608996</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.872752</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Guilhem - Courreau</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlfeatures>
+          <rdf:Description>
+            <ns0:owlproperties>
+              <ns0:owlstation>
+                <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes>
+                <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns0:owlavailable_bikes_stands>
+                <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</ns0:owlbike_stands>
+                <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43.595620</ns0:owllat>
+                <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.923500</ns0:owllong>
+                <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sud De France</ns0:owlname>
+                <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</ns0:owlville>
+              </ns0:owlstation>
+            </ns0:owlproperties>
+
+            <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+          </rdf:Description>
+        </ns0:owlfeatures>
+
+        <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stations de velos Montpellier</ns0:owlname>
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FeatureCollection</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlfeatures>
+
+  </rdf:Description>
+
+</rdf:RDF>

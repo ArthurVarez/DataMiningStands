@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.owl-ontologies.com/unnamed.">
+
+  <rdf:Description rdf:nodeID="genid1">
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musée Beaux-Arts</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stations de velos Rennes</ns0:owlname>
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champs Libres</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brest - Verdun</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marbeuf</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaine de Baud</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8126795E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8126795E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gros-Chêne</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8123506E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.659762E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8123506E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.659762E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Painlevé</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8124389E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.651203E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8124389E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.651203E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joliot-Curie - Chateaubriand</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8087282E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8087282E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Poterie</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+    <ns0:owlrecords>
+      <rdf:Description>
+        <ns0:owlfields>
+          <ns0:owlstation>
+            <ns0:owlavailable_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:owlavailable_bikes>
+            <ns0:owlavailable_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:owlavailable_bikes_stands>
+            <ns0:owlbike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:owlbike_stands>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109859E1</ns0:owlcoordonnees>
+            <ns0:owlcoordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.656028E0</ns0:owlcoordonnees>
+            <ns0:owllat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109859E1</ns0:owllat>
+            <ns0:owllong rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.656028E0</ns0:owllong>
+            <ns0:owlname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pont de Strasbourg</ns0:owlname>
+            <ns0:owlville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:owlville>
+          </ns0:owlstation>
+        </ns0:owlfields>
+
+        <ns0:owltype rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</ns0:owltype>
+      </rdf:Description>
+    </ns0:owlrecords>
+
+  </rdf:Description>
+
+</rdf:RDF>

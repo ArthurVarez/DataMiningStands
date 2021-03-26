@@ -5,9 +5,9 @@ from flask_bootstrap import Bootstrap
 
 
 #opening the queries we have definded previously 
-query_lyon = open("./Query/Query_Lyon.txt",'r').read()
-query_rennes = open("./Query/Query_Rennes.txt",'r').read()
-query_mtp = open("./Query/Query_Montpellier.txt",'r').read()
+query_lyon = open("./Query/Query_Lyon_final.txt",'r').read()
+query_rennes = open("./Query/Query_Rennes_final.txt",'r').read()
+query_mtp = open("./Query/Query_Montpellier_final.txt",'r').read()
 
 app = Flask(__name__)
 Bootstrap(app)
@@ -29,7 +29,7 @@ def mtp():
     return render_template('map_mtp.html',name = 'Montpellier',datas = grab_query(send_query(query_mtp)))
 
 def send_query(query):
-    sparql = SPARQLWrapper('http://localhost:3030/Final_Sation_Bikes')
+    sparql = SPARQLWrapper('http://localhost:3030/Final_Station_Bike')
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -39,13 +39,17 @@ def grab_query(query):
     res = list()
     for element in query['results']['bindings']:
         temp = list()
-        temp.append(element['ville']['value'])
-        temp.append(element['name']['value'])
-        temp.append(element['available_bikes']['value'])
-        temp.append(element['available_bikes_stands']['value'])
-        temp.append(element['bike_stands']['value'])
-        temp.append(float(element['lat']['value'][0:-2])*10)
-        temp.append(float(element['long']['value'][0:-2]))
+        temp.append(element['owlville']['value'])
+        temp.append(element['owlname']['value'])
+        temp.append(element['owlavailable_bikes']['value'])
+        temp.append(element['owlavailable_bikes_stands']['value'])
+        temp.append(element['owlbike_stands']['value'])
+        if query=="query_rennes":
+            temp.append(float(element['owllat']['value'][0:-2])*10)
+            temp.append(float(element['owllong']['value'][0:-2]))
+        else:
+            temp.append(float(element['owllat']['value'][0:-2]))
+            temp.append(float(element['owllong']['value'][0:-2]))
         res.append(temp)
         
         
@@ -57,5 +61,7 @@ if __name__ == '__main__':
     #   l = grab_query(send_query(query_rennes))
     #   f.write(str(l))
     #   f.close()
-    app.run(port=3000)
+    #app.run(port=3000)
+    print(grab_query(send_query(query_mtp)))
+    
     

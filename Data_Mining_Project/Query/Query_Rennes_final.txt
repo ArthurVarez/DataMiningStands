@@ -13,7 +13,7 @@ WHERE {
 	 ?owlstation ns0:owlbike_stands ?owlbike_stands .
   	 ?owlstation ns0:owllat ?owllat .
          ?owlstation ns0:owllong ?owllong .
-         FILTER(?ville="Rennes") .
+         FILTER(?owlville="Rennes") .
 
   
   

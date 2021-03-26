@@ -1,0 +1,21 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX ns0: <http://www.owl-ontologies.com/unnamed.>
+
+
+
+SELECT ?owlville ?owlname ?owlavailable_bikes ?owlavailable_bikes_stands ?owlbike_stands ?owllat ?owllong
+WHERE {
+	 ?owlstation rdf:type ns0:owlstation .
+	 ?owlstation ns0:owlname ?owlname .
+  	?owlstation ns0:owlville ?owlville .	
+	 ?owlstation ns0:owlavailable_bikes ?owlavailable_bikes .
+	 ?owlstation ns0:owlavailable_bikes_stands ?owlavailable_bikes_stands .
+	 ?owlstation ns0:owlbike_stands ?owlbike_stands .
+  	 ?owlstation ns0:owllat ?owllat .
+         ?owlstation ns0:owllong ?owllong .
+         FILTER(?ville="Montpellier") .
+
+  
+  
+	   	
+}

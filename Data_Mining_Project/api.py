@@ -44,7 +44,7 @@ def grab_query(query):
         temp.append(element['owlavailable_bikes']['value'])
         temp.append(element['owlavailable_bikes_stands']['value'])
         temp.append(element['owlbike_stands']['value'])
-        if query=="query_rennes":
+        if element['owlville']['value']=='Rennes':
             temp.append(float(element['owllat']['value'][0:-2])*10)
             temp.append(float(element['owllong']['value'][0:-2]))
         else:
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     #   l = grab_query(send_query(query_rennes))
     #   f.write(str(l))
     #   f.close()
-    #app.run(port=3000)
-    print(grab_query(send_query(query_mtp)))
+    app.run(port=3000)
+    
     
     

@@ -57,10 +57,7 @@ def grab_query(query):
        
 
 if __name__ == '__main__':
-    #   f = open('/Users/Arthur/Desktop/Projets/DataMiningStands/Data_Mining_Project/Data/q.txt','w')
-    #   l = grab_query(send_query(query_rennes))
-    #   f.write(str(l))
-    #   f.close()
+   
     app.run(port=3000)
     
     
